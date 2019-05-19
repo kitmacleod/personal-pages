@@ -9,7 +9,7 @@ const ContactPage = () => {
     <Layout>
     <Head title="Contact"/>
     <h1>Contact details</h1>
-    <p>I can be contacted via <a href="https://twitter.com/@kitmacleod" target="_blank">@kitmacleod</a> on Twitter</p>
+    <p>I can be contacted at <a href="https://twitter.com/@kitmacleod" target="_blank">@kitmacleod</a> on Twitter</p>
     </Layout>
   )
 }
