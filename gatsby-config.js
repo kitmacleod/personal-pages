@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kit Macleod',
+    title: 'Kit Macleod: research scientist and full-stack developer',
     author: 'Kit Macleod'
   },
   plugins: [
