@@ -19,7 +19,8 @@ const Footer =() => {
 
   return (
     <footer className={footerStyles.footer}>
-      <p>{data.site.siteMetadata.author}</p>
+     
+     <p> <a href="https://twitter.com/@kitmacleod" target="_blank"> @kitmacleod</a></p>
     </footer>
   )
 }
