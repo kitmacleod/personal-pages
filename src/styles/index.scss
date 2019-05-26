@@ -43,11 +43,15 @@ template {
 }
 a {
   background-color: transparent;
+  color: black;
   -webkit-text-decoration-skip: objects;
+  text-decoration: none;
 }
 a:active,
 a:hover {
+  border-bottom: 1px dotted;
   outline-width: 0;
+  font-weight: bolder;
 }
 abbr[title] {
   border-bottom: none;
